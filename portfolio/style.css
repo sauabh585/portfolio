@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar{
+    background-color: red;
+    width: 80vw;
+}
+.main{
+    background-color: yellow;
+    width: 20vw;
+}
+.container{
+    display: flex;
+}
